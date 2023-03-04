@@ -8,6 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaBoss-Developer)](https://github.com/anuraghazra/github-readme-stats) 
 
-![](https://komarev.com/ghpvc/?username=TeaBoss-Developer)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=TeaBoss-Developer)](https://github.com/ryo-ma/github-profile-trophy)
