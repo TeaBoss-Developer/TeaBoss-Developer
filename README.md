@@ -4,12 +4,20 @@
 - 💞️ I’m looking to collaborate on C# and Python
 - 📫 How to reach me email:2220067959@qq.com  qq:2220067959
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeaBoss-Developer)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaBoss-Developer)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TeaBoss-Developer)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">访客数</h1>
 
 ![:TeaBoss-Developer](https://count.getloli.com/get/@TeaBoss-Developer?theme=rule34)
+
+<h1 align="center">个人Github成就</h1>
+
+![profile-3d-contrib](https://TeaBoss-Developer.pages.dev/profile-3d-contrib/profile-night-rainbow.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaBoss-Developer&show_icons=true&count_private=true&title_color=000000&text_color=000000&bg_color=50,ff6b6b,ffb56b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TeaBoss-Developer&title_color=000000&text_color=000000&layout=compact&width=100%&bg_color=30,ff6b6b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TeaBoss-Developer&theme=synthwave&date_format=%5BY.%5Dn.j)
+
+![profile](https://github-profile-trophy.vercel.app/?username=TeaBoss-Developer&margin-w=28)
