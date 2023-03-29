@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: ${{ "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" }}
           USERNAME: ${{ "TeaBoss-Developer" }}
       - name: Commit & Push
         run: |
