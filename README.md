@@ -14,8 +14,6 @@
 
 <h1 align="center">个人Github成就</h1>
 
-![profile-3d-contrib](https://TeaBoss-Developer.pages.dev/profile-3d-contrib/profile-night-rainbow.svg)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaBoss-Developer&show_icons=true&count_private=true&title_color=000000&text_color=000000&bg_color=50,ff6b6b,ffb56b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TeaBoss-Developer&title_color=000000&text_color=000000&layout=compact&width=100%&bg_color=30,ff6b6b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
