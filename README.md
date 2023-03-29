@@ -9,3 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeaBoss-Developer)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TeaBoss-Developer)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h1 align="center">访客数</h1>
+
+![:TeaBoss-Developer](https://count.getloli.com/get/@TeaBoss-Developer?theme=rule34)
