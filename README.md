@@ -6,7 +6,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是TeaBoss;一名来自山东的高一学生)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是TeaBoss;一名来自山东的高二学生)
 
 <h1 align="center">访客数</h1>
 
