@@ -10,7 +10,7 @@
 
 <h1 align="center">访客数</h1>
 
-![:TeaBoss-Developer](https://count.getloli.com/get/@TeaBoss-Developer?theme=rule34)
+失效中~
 
 <h1 align="center">个人Github成就</h1>
 
